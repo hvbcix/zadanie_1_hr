@@ -6,3 +6,7 @@ print("Pole kwadratu to: " + str(pole_kw))
 r = 3
 pole_kola = math.pi * 3 ** 2
 print("Pole kola to: " +str(pole_kola))
+
+bok_b = 20
+pole_prostokat = bok_b * bok_a
+print("Pole prostokata to: " +str(pole_prostokat))
