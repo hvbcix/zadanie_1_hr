@@ -10,3 +10,7 @@ print("Pole kola to: " +str(pole_kola))
 bok_b = 20
 pole_prostokat = bok_b * bok_a
 print("Pole prostokata to: " +str(pole_prostokat))
+
+wysokosc = 15
+pole_trojkat = bok_a * wysokosc
+print("Pole trojkata to: " +str(pole_trojkat))
